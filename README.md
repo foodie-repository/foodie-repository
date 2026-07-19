@@ -1,5 +1,3 @@
-pyenv: cannot rehash: /Users/foodie/.pyenv/shims isn't writable
-pyenv: cannot rehash: /Users/foodie/.pyenv/shims isn't writable
 <p align="center">
   <img src="./assets/profile-banner.svg" alt="Foodie — Data to Insight to Action" width="100%" />
 </p>
