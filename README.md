@@ -57,10 +57,10 @@
 
 <p align="center">
   <strong>실제 지역 대시보드</strong><br />
-  <a href="./assets/apt-region-dashboard.png">
+  <a href="./case-studies/nowon-dashboard.md">
     <img src="./assets/apt-region-dashboard.png" alt="지역 가격 흐름과 서울 내 위치를 비교한 실제 부동산 대시보드 화면" width="100%" />
   </a><br />
-  <sub>클릭해 전체 화면 보기</sub>
+  <sub><a href="./case-studies/nowon-dashboard.md">노원구 대시보드 전체 구성 보기 →</a></sub>
 </p>
 
 <details>
