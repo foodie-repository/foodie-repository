@@ -64,9 +64,9 @@
 </p>
 
 <p align="center">
-  <strong>AI 기반 지역 분석 리포트</strong><br />
-  <sub>같은 하네스가 수집·검증한 데이터를 AI 분석 초안과 사람의 수치·논리 검토를 거쳐 독자용 글로 전환했습니다.</sub><br />
-  <a href="./case-studies/dongtan-analysis-report.md">동탄구 분석 리포트 샘플 보기 →</a>
+  <strong>데이터에서 차트와 보고서까지 확장하는 분석 에이전트 시스템</strong><br />
+  <sub>같은 하네스가 데이터를 검증하고 공통·지역 특화 차트와 보고서 초안을 만든 뒤, 사람이 수치·논리·표현을 최종 검토합니다.</sub><br />
+  <a href="./case-studies/dongtan-analysis-report.md">동탄구 상세 사례 보기 →</a>
 </p>
 
 <details>
