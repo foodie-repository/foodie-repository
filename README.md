@@ -147,9 +147,9 @@ _비식별 상세 사례는 공개 범위를 정리한 뒤 연결할 예정입�
 - **20·21기 ChatAPT:** 부동산 AI 분석 워크스페이스 설계 및 AI Agent 개발
 - **23기 데이터 분석·시각화:** 데이터 수집, 부동산·주식 대시보드, 재사용 가능한 대시보드 템플릿
 
-## 주로 사용하는 도구
+## 기술 기반과 구현 방식
 
-`Python` · `Jupyter` · `DuckDB` · `Streamlit` · `Polars / pandas` · `Git` · `Codex` · `Claude Code`
+`Python · SQL · DuckDB`로 데이터 수집과 분석 기반을 만들고, `HTML · CSS · JavaScript · React · Next.js`로 복잡한 분석 결과를 읽기 쉬운 대시보드와 시각화로 구현합니다. `Claude Code · Codex`를 분석·개발 워크플로에 활용하고, 자동 테스트·화면 검증·Git 기록으로 품질과 재현성을 관리합니다.
 
 ## 함께 이야기할 수 있는 일
 
