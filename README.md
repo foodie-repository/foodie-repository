@@ -53,7 +53,7 @@
 - **프로젝트명:** `APT-Price-Pattern`
 - **목적:** 흩어진 부동산 데이터를 같은 기준으로 반복 분석해 지역 변화의 이유를 추적하고 판단 근거를 만듭니다.
 - **내용:** API·크롤링 기반 데이터 수집, 데이터 계보와 분석 기준, 모델링, 반복 검증, 실행·품질 통제를 대시보드와 콘텐츠까지 연결했습니다.
-- **결과:** 지역 대시보드, 분석 보고서, 뉴스레터, 패턴 라이브러리로 활용 범위를 확장했습니다.
+- **결과:** 지역 대시보드, AI 기반 지역 분석 리포트, 패턴 라이브러리로 활용 범위를 확장했습니다.
 
 <p align="center">
   <strong>실제 지역 대시보드</strong><br />
@@ -61,6 +61,12 @@
     <img src="./assets/apt-region-dashboard.png" alt="지역 가격 흐름과 서울 내 위치를 비교한 실제 부동산 대시보드 화면" width="100%" />
   </a><br />
   <sub><a href="./case-studies/nowon-dashboard.md">노원구 대시보드 전체 구성 보기 →</a></sub>
+</p>
+
+<p align="center">
+  <strong>AI 기반 지역 분석 리포트</strong><br />
+  <sub>같은 하네스가 수집·검증한 데이터를 AI 분석 초안과 사람의 수치·논리 검토를 거쳐 독자용 글로 전환했습니다.</sub><br />
+  <a href="./case-studies/dongtan-analysis-report.md">동탄구 분석 리포트 샘플 보기 →</a>
 </p>
 
 <details>
