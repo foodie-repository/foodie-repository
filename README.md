@@ -58,8 +58,22 @@
 - **결과:** 지역 대시보드, 분석 보고서, 뉴스레터, 패턴 라이브러리로 활용 범위를 확장했습니다.
 
 <p align="center">
-  <img src="./assets/apt-price-pattern.png" alt="부동산 데이터 기준에서 분석, 반복 검증, 결과물까지 이어지는 시스템 구조도" width="100%" />
+  <strong>실제 지역 대시보드</strong><br />
+  <a href="./assets/apt-region-dashboard.png">
+    <img src="./assets/apt-region-dashboard.png" alt="지역 가격 흐름과 서울 내 위치를 비교한 실제 부동산 대시보드 화면" width="100%" />
+  </a><br />
+  <sub>클릭해 전체 화면 보기</sub>
 </p>
+
+<details>
+  <summary><strong>분석 시스템 구조 보기</strong></summary>
+  <br />
+  <p align="center">
+    <a href="./assets/apt-price-pattern.png">
+      <img src="./assets/apt-price-pattern.png" alt="부동산 데이터 기준에서 분석, 반복 검증, 결과물까지 이어지는 시스템 구조도" width="100%" />
+    </a>
+  </p>
+</details>
 
 - **역할:** 데이터 수집·계보, 분석 기준, 모델링, 검증 구조와 실행 하네스 설계
 - **확장:** 파일럿을 같은 구조로 확장해 지역 차이와 한계를 반복 검증
