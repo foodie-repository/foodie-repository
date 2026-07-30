@@ -120,6 +120,7 @@
 | 프로젝트 | 무엇을 해결하나요? |
 |---|---|
 | **[data-insight-kit](https://github.com/foodie-repository/data-insight-kit)** | 표 데이터를 받아 분석 보고서와 데이터 주입형 대시보드까지 만드는 체크포인트 기반 분석 키트입니다. |
+| **[dashboard-blueprint](https://github.com/foodie-repository/dashboard-blueprint)** | 대시보드 화면·URL·HTML을 재사용 가능한 디자인 시스템으로 전환하고, 새 데이터에 맞는 구성 추천·구현·검증을 연결하는 도구입니다. |
 | **[Nonparametric-Analysis](https://github.com/foodie-repository/Nonparametric-Analysis)** | 17종 비모수 통계 분석을 실행하고, 결과 해석과 시각화까지 연결하는 실무 가이드입니다. |
 | **[real-estate-investment-analysis-with-claude-code](https://github.com/foodie-repository/real-estate-investment-analysis-with-claude-code)** | 『부동산 투자 분석 with 클로드 코드』 독자를 위한 수집·분석·대시보드 예제입니다. |
 | **[da-viz-converter](https://github.com/foodie-repository/da-viz-converter)** | Codex의 데이터 분석·시각화 워크플로를 Claude Code 환경에서 재현하기 위한 검증형 컨버터입니다. |
