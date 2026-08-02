@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <strong>데이터에서 차트와 보고서까지 확장하는 분석 에이전트 시스템</strong><br />
+  <strong>부동산 데이터를 차트와 보고서로 확장하는 분석 에이전트 시스템</strong><br />
   <sub>같은 하네스가 데이터를 검증하고 공통·지역 특화 차트와 보고서 초안을 만든 뒤, 사람이 수치·논리·표현을 최종 검토합니다.</sub><br />
   <a href="./case-studies/dongtan-analysis-report.md">동탄구 상세 사례 보기 →</a>
 </p>
