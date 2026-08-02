@@ -36,6 +36,14 @@
 - **교육·콘텐츠**<br />
   분석과 구현 경험을 강의·책·교육 콘텐츠로 정리해, 다른 사람이 이해하고 직접 활용할 수 있도록 전달합니다.
 
+## 최근 아티클
+
+### [AI 에이전트는 어디까지 맡기고, 어디에서 사람이 판단해야 할까](https://foodie-repository.github.io/articles/agent-human-judgment/)
+
+에이전트의 자율성을 모호성·영향과 가역성·검증 가능성으로 나누고, 사람이 개입해야 할 지점을 실제 운영 구조에 맞춰 정리했습니다.
+
+[AI 기술·활용 아티클 모아 보기 →](https://foodie-repository.github.io/articles/topic/ai-technology-use/)
+
 ## 대표 사례
 
 ### 1. 사람과 AI가 협업하는 데이터 분석 시스템
