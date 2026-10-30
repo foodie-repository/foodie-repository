@@ -132,14 +132,12 @@ https://github.com/user-attachments/assets/75b3c059-d4f2-4d07-a0dc-8b28b49fd8d2
 - **형태:** 종이책
 - **출판 정보:** 2026년 출간 예정
 - **목적:** 코딩 경험이 적은 독자도 Claude Code와 함께 부동산 데이터를 분석하고 직접 도구를 완성하도록 돕습니다.
-- **내용:** 데이터 수집·전처리부터 다섯 개 분석 도구와 대시보드 제작까지 단계적으로 구성했습니다.
+- **내용:** 데이터 수집·전처리부터 여섯 가지 분석 도구와 대시보드 제작까지 단계적으로 구성했습니다.
 - **결과:** 원고·실행 코드·독자용 공개 패키지를 함께 구성했습니다.
 
-<p align="center">
-  <img src="./assets/book-reader-journey.png" alt="처음 시작한 독자가 다섯 개의 부동산 분석 도구를 완성하는 학습 구조" width="100%" />
-</p>
+https://github.com/user-attachments/assets/76c847a2-04c4-4379-849d-12a33be6b06e
 
-- **역할:** 책 기획·집필, 독자 경험, 실습 코드와 대시보드 설계
+- **역할:** 책 기획·집필, 독자 경험, 실습 코드와 대시보드 설계. AI는 자료 탐색·코드 초안·오류 원인 탐색을 돕고, 독자의 학습 순서·분석 기준·실행 검증·공개 범위는 직접 결정했습니다.
 - **링크:** [독자용 코드 저장소](https://github.com/foodie-repository/real-estate-investment-analysis-with-claude-code)
 
 ## 주식 데이터 분석·시각화
