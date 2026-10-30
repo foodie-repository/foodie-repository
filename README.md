@@ -109,6 +109,14 @@
 - **목적:** 지역 분석부터 임장·매수까지, 감이 아닌 데이터로 판단하도록 생성형 AI를 나만의 부동산 투자 비서로 활용하는 방법을 안내합니다.
 - **내용:** 거시·미시 경제, 정책·세금, 투자 전략, 지역·단지 분석, 임장·의사 결정, 매수·매도 실전을 10개 챕터의 실습 38개로 구성했습니다.
 - **결과:** 실행 시점의 최신 기준을 AI가 직접 조회·검증하도록 설계한 실습 프롬프트와 AI 맞춤 지침 템플릿을 공개 저장소로 제공합니다.
+
+<p align="center">
+  <a href="https://www.yes24.com/product/goods/197068685">
+    <img src="./assets/for-the-first-time-ai-apt-cover.jpg" alt="난생처음 AI × 부동산 with 클로드, 제미나이, 챗GPT, 퍼플렉시티 책 표지" width="240" />
+  </a>
+</p>
+
+- **역할:** 공동 집필, 독자용 실습 프롬프트 저장소 구성·공개
 - **링크:** [도서 소개 · YES24](https://www.yes24.com/product/goods/197068685) · [실습 프롬프트 저장소](https://github.com/foodie-repository/for-the-first-time-ai-apt)
 
 #### 『감을 확신으로 바꾸는 AI 부동산 투자』
@@ -147,6 +155,7 @@
 | **[dashboard-blueprint](https://github.com/foodie-repository/dashboard-blueprint)** | 대시보드 화면·URL·HTML을 재사용 가능한 디자인 시스템으로 전환하고, 새 데이터에 맞는 구성 추천·구현·검증을 연결하는 도구입니다. |
 | **[Nonparametric-Analysis](https://github.com/foodie-repository/Nonparametric-Analysis)** | 17종 비모수 통계 분석을 실행하고, 결과 해석과 시각화까지 연결하는 실무 가이드입니다. |
 | **[real-estate-investment-analysis-with-claude-code](https://github.com/foodie-repository/real-estate-investment-analysis-with-claude-code)** | 『감을 확신으로 바꾸는 AI 부동산 투자』 독자를 위한 수집·분석·대시보드 예제입니다. |
+| **[for-the-first-time-ai-apt](https://github.com/foodie-repository/for-the-first-time-ai-apt)** | 『난생처음 AI × 부동산』 독자를 위한 실습 프롬프트 38개와 AI 맞춤 지침 템플릿입니다. |
 | **[da-viz-converter](https://github.com/foodie-repository/da-viz-converter)** | Codex의 데이터 분석·시각화 워크플로를 Claude Code 환경에서 재현하기 위한 검증형 컨버터입니다. |
 
 ## 일하는 방식
