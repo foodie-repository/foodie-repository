@@ -101,9 +101,21 @@
 
 ### 3. AI 분석 경험을 책과 실행 코드로 완성
 
-- **도서명:** 『부동산 투자 분석 with 클로드 코드』
+#### 『난생처음 AI × 부동산』
+
+- **도서명:** 『난생처음 AI × 부동산 with 클로드, 제미나이, 챗GPT, 퍼플렉시티』
 - **형태:** 종이책
-- **출판 정보:** 한빛미디어 · 2026년 9월 출간 예정
+- **출판 정보:** 한빛미디어 · 2026년 9월 출간 · 정케빈·지피타쿠·푸디 공저
+- **목적:** 지역 분석부터 임장·매수까지, 감이 아닌 데이터로 판단하도록 생성형 AI를 나만의 부동산 투자 비서로 활용하는 방법을 안내합니다.
+- **내용:** 거시·미시 경제, 정책·세금, 투자 전략, 지역·단지 분석, 임장·의사 결정, 매수·매도 실전을 10개 챕터의 실습 38개로 구성했습니다.
+- **결과:** 실행 시점의 최신 기준을 AI가 직접 조회·검증하도록 설계한 실습 프롬프트와 AI 맞춤 지침 템플릿을 공개 저장소로 제공합니다.
+- **링크:** [도서 소개 · YES24](https://www.yes24.com/product/goods/197068685) · [실습 프롬프트 저장소](https://github.com/foodie-repository/for-the-first-time-ai-apt)
+
+#### 『감을 확신으로 바꾸는 AI 부동산 투자』
+
+- **도서명:** 『감을 확신으로 바꾸는 AI 부동산 투자』
+- **형태:** 종이책
+- **출판 정보:** 2026년 출간 예정
 - **목적:** 코딩 경험이 적은 독자도 Claude Code와 함께 부동산 데이터를 분석하고 직접 도구를 완성하도록 돕습니다.
 - **내용:** 데이터 수집·전처리부터 다섯 개 분석 도구와 대시보드 제작까지 단계적으로 구성했습니다.
 - **결과:** 원고·실행 코드·독자용 공개 패키지를 함께 구성했습니다.
@@ -134,7 +146,7 @@
 | **[data-insight-kit](https://github.com/foodie-repository/data-insight-kit)** | 표 데이터를 받아 분석 보고서와 데이터 주입형 대시보드까지 만드는 체크포인트 기반 분석 키트입니다. |
 | **[dashboard-blueprint](https://github.com/foodie-repository/dashboard-blueprint)** | 대시보드 화면·URL·HTML을 재사용 가능한 디자인 시스템으로 전환하고, 새 데이터에 맞는 구성 추천·구현·검증을 연결하는 도구입니다. |
 | **[Nonparametric-Analysis](https://github.com/foodie-repository/Nonparametric-Analysis)** | 17종 비모수 통계 분석을 실행하고, 결과 해석과 시각화까지 연결하는 실무 가이드입니다. |
-| **[real-estate-investment-analysis-with-claude-code](https://github.com/foodie-repository/real-estate-investment-analysis-with-claude-code)** | 『부동산 투자 분석 with 클로드 코드』 독자를 위한 수집·분석·대시보드 예제입니다. |
+| **[real-estate-investment-analysis-with-claude-code](https://github.com/foodie-repository/real-estate-investment-analysis-with-claude-code)** | 『감을 확신으로 바꾸는 AI 부동산 투자』 독자를 위한 수집·분석·대시보드 예제입니다. |
 | **[da-viz-converter](https://github.com/foodie-repository/da-viz-converter)** | Codex의 데이터 분석·시각화 워크플로를 Claude Code 환경에서 재현하기 위한 검증형 컨버터입니다. |
 
 ## 일하는 방식
