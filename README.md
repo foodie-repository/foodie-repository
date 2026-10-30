@@ -119,7 +119,12 @@
 https://github.com/user-attachments/assets/75b3c059-d4f2-4d07-a0dc-8b28b49fd8d2
 
 - **역할:** 공동 집필, 독자용 실습 프롬프트 저장소 구성·공개
-- **링크:** [종이책 · YES24](https://www.yes24.com/product/goods/197068685) · [전자책 · YES24](https://www.yes24.com/product/goods/197655007) · [실습 프롬프트 저장소](https://github.com/foodie-repository/for-the-first-time-ai-apt)
+- **구매처:**
+  - YES24: [종이책](https://www.yes24.com/product/goods/197068685) · [전자책](https://www.yes24.com/product/goods/197655007)
+  - 교보문고: [종이책](https://product.kyobobook.co.kr/detail/S000221505866) · [전자책](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013638206)
+  - 알라딘: [종이책](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=403219506) · [전자책](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=403313115)
+  - 영풍문고: [종이책](https://www.ypbooks.co.kr/books/202609294809571639)
+- **링크:** [실습 프롬프트 저장소](https://github.com/foodie-repository/for-the-first-time-ai-apt)
 
 #### 『감을 확신으로 바꾸는 AI 부동산 투자』
 
