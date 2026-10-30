@@ -119,7 +119,7 @@
 https://github.com/user-attachments/assets/75b3c059-d4f2-4d07-a0dc-8b28b49fd8d2
 
 - **역할:** 공동 집필, 독자용 실습 프롬프트 저장소 구성·공개
-- **링크:** [도서 소개 · YES24](https://www.yes24.com/product/goods/197068685) · [실습 프롬프트 저장소](https://github.com/foodie-repository/for-the-first-time-ai-apt)
+- **링크:** [종이책 · YES24](https://www.yes24.com/product/goods/197068685) · [전자책 · YES24](https://www.yes24.com/product/goods/197655007) · [실습 프롬프트 저장소](https://github.com/foodie-repository/for-the-first-time-ai-apt)
 
 #### 『감을 확신으로 바꾸는 AI 부동산 투자』
 
