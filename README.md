@@ -152,6 +152,8 @@ https://github.com/user-attachments/assets/b181e7bd-d273-4cd6-b6b0-26b564d1008c
 
 - **설계 원칙:** 개인 투자정보나 자동 매매 지시보다, 여러 근거와 위험 조건을 함께 비교하는 검토 도구에 초점을 맞췄습니다.
 
+https://github.com/user-attachments/assets/21d557bc-cb92-4aa7-a6a4-dfea01fad6fc
+
 ## 공개 프로젝트
 
 | 프로젝트 | 무엇을 해결하나요? |
