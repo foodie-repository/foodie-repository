@@ -116,7 +116,7 @@
   </a>
 </p>
 
-https://github.com/user-attachments/assets/75b3c059-d4f2-4d07-a0dc-8b28b49fd8d2
+https://github.com/user-attachments/assets/42a9a690-b8c6-4f68-82fa-37f0d268c9a4
 
 - **역할:** 공동 집필, 독자용 실습 프롬프트 저장소 구성·공개
 - **구매처:**
