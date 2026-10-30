@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>데이터를 분석해, 사람이 결정할 수 있는 형태로 만듭니다.</strong><br />
-  <sub>AI-assisted data analytics · visualization systems · decision tools</sub>
+  <sub>AI-assisted analytics · visualization · decision systems</sub>
 </p>
 
 <p align="center">
