@@ -162,7 +162,7 @@ https://github.com/user-attachments/assets/b181e7bd-d273-4cd6-b6b0-26b564d1008c
   6. **대시보드** — 시장 국면, 후보 분포, 섹터 흐름을 한 화면에서 확인합니다.
 - **결과:** 매일의 시장 브리핑과 장중 점검, 주간 시장 리포트와 뉴스레터 초안, 공유용 시장 대시보드를 같은 데이터와 기준에서 만들어 냅니다.
 
-https://github.com/user-attachments/assets/21d557bc-cb92-4aa7-a6a4-dfea01fad6fc
+https://github.com/user-attachments/assets/f9751890-d5bd-4232-a516-ab3fb3ebad31
 
 <sub>60초 소개 영상입니다. 화면의 숫자와 메시지는 예시이며, 개인 보유 종목과 거래 정보는 포함하지 않았습니다.</sub>
 
