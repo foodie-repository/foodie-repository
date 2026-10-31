@@ -172,7 +172,7 @@ https://github.com/user-attachments/assets/21d557bc-cb92-4aa7-a6a4-dfea01fad6fc
 | **[Nonparametric-Analysis](https://github.com/foodie-repository/Nonparametric-Analysis)** | 17종 비모수 통계 분석을 실행하고, 결과 해석과 시각화까지 연결하는 실무 가이드입니다. |
 | **[real-estate-investment-analysis-with-claude-code](https://github.com/foodie-repository/real-estate-investment-analysis-with-claude-code)** | 『감을 확신으로 바꾸는 AI 부동산 투자』 독자를 위한 수집·분석·대시보드 예제입니다. |
 | **[for-the-first-time-ai-apt](https://github.com/foodie-repository/for-the-first-time-ai-apt)** | 『난생처음 AI × 부동산』 독자를 위한 실습 프롬프트 38개와 AI 맞춤 지침 템플릿입니다. |
-| **[da-viz-converter](https://github.com/foodie-repository/da-viz-converter)** | Codex의 데이터 분석·시각화 워크플로를 Claude Code 환경에서 재현하기 위한 검증형 컨버터입니다. |
+| **[foodielab-insights](https://github.com/foodie-repository/foodielab-insights)** | 푸디랩의 부동산·주식·AI·경제 데이터 인사이트와 공개 보고서를 통합 포트폴리오로 안내하는 저장소입니다. |
 
 ## 일하는 방식
 
