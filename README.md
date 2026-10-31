@@ -135,10 +135,17 @@ https://github.com/user-attachments/assets/42a9a690-b8c6-4f68-82fa-37f0d268c9a4
 - **내용:** 데이터 수집·전처리부터 여섯 가지 분석 도구와 대시보드 제작까지 단계적으로 구성했습니다.
 - **결과:** 원고·실행 코드·독자용 공개 패키지를 함께 구성했습니다.
 
+<p align="center">
+  <a href="https://foodie-repository.github.io/real-estate-investment-analysis-with-claude-code/">
+    <img src="https://raw.githubusercontent.com/foodie-repository/real-estate-investment-analysis-with-claude-code/main/assets/screenshots/book-preview-reading-guide-595c0c66.png" alt="감을 확신으로 바꾸는 AI 부동산 투자 책 미리보기: 목차와 두 쪽 본문, 완성할 분석 도구를 보여주는 독서 화면" width="100%" />
+  </a><br />
+  <sub>이미지를 누르면 전체 목차와 저자 소개, 저자의 말, 이 책에 대하여, 이 책을 읽는 방법을 미리 읽을 수 있습니다.</sub>
+</p>
+
 https://github.com/user-attachments/assets/b181e7bd-d273-4cd6-b6b0-26b564d1008c
 
 - **역할:** 책 기획·집필, 독자 경험, 실습 코드와 대시보드 설계. AI는 자료 탐색·코드 초안·오류 원인 탐색을 돕고, 독자의 학습 순서·분석 기준·실행 검증·공개 범위는 직접 결정했습니다.
-- **링크:** [독자용 코드 저장소](https://github.com/foodie-repository/real-estate-investment-analysis-with-claude-code)
+- **링크:** [책 미리보기 — 좌우로 넘겨 읽기](https://foodie-repository.github.io/real-estate-investment-analysis-with-claude-code/) · [독자용 코드 저장소](https://github.com/foodie-repository/real-estate-investment-analysis-with-claude-code)
 
 ## 주식 데이터 분석·시각화
 
